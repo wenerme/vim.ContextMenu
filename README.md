@@ -23,3 +23,19 @@ Context menu for gvim
 Choose a task:
 </pre>
 </blockquote>
+
+Useage
+------
+
+```bat
+:: Use %CD%
+contextmenu_for_vim install_cd
+:: Use dir where you put this bat file
+contextmenu_for_vim install_dp0
+:: Use %1 as dir
+contextmenu_for_vim C:\vim
+:: Use uninstall
+contextmenu_for_vim uninstall
+:: Interactive mode
+contextmenu_for_vim
+```

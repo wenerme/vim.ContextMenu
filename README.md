@@ -34,7 +34,7 @@ contextmenu_for_vim install_cd
 contextmenu_for_vim install_dp0
 :: Use %1 as dir
 contextmenu_for_vim C:\vim
-:: Use uninstall
+:: Remove in context menu
 contextmenu_for_vim uninstall
 :: Interactive mode
 contextmenu_for_vim

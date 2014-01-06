@@ -39,3 +39,10 @@ contextmenu_for_vim uninstall
 :: Interactive mode
 contextmenu_for_vim
 ```
+
+TODO
+-----
+
+* 添加 选项来控制添加的菜单项
+* 添加 快捷键
+

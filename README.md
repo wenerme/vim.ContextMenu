@@ -12,8 +12,8 @@ Screenshot
 <pre>
 Context menu for gvim
 
-1 - Install (use dir G:\minienv\env\vim\vim74)FOUND
-2 - Install (use dir G:\minienv\env\vim\vim74\)FOUND
+1 - Install (use dir %CD%)FOUND
+2 - Install (use dir %~dp0%)FOUND
 3 - Install (ask VIM dir)
 8 - Uninstall
 9 - Exit
